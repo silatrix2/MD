@@ -1,0 +1,23 @@
+module.exports = {
+  BAILEYS: "@whiskeysockets/baileys",
+  PREFIX: ".",
+  OWNER_NUMBER: "255612491554",
+  SESSION_ID: "",
+  USE_PAIRING_CODE: true,
+  PAIRING_LABEL: "SILA-MD",
+  MODE: "public",
+  READ_MESSAGE: "true",
+  AUTO_STATUS_SEEN: "true",
+  AUTO_STATUS_REACT: "true",
+  AUTO_STATUS_REPLY: "true",
+  AUTO_STATUS_MSG: "Hello from SILA MD! 👋",
+  ANTI_CALL: "true",
+  REJECT_MSG: "❌ Calls are not allowed!",
+  ANTI_DELETE: "true",
+  AUTO_REACT: "true",
+  OWNER_REACT: "true",
+  CUSTOM_REACT: "false",
+  CUSTOM_REACT_EMOJIS: "❤️,🔥,🌟",
+  packname: "SILA MD",
+  author: "Developer"
+};
