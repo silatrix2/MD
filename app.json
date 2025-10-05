@@ -1,5 +1,5 @@
 {
-  "name": "LIBRA-XMD",
+  "name": "MD",
   "description": "Javascript WhatsApp bot made by Terri",
   "logo": "https://files.catbox.moe/8fy6up.jpg",
   "keywords": ["VERONICA"],
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "LIBRA-XMD"
+      "value": "MD"
     }, 
       
     "PREFIX": {
@@ -78,7 +78,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY LIBRA-XMD🖤*"
+      "value": "*SEEN YOUR STATUS BY MD🖤*"
    
      }, 
     
@@ -91,14 +91,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "256754550399"
+      "value": "255612491554"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "LIBRA-XMD"
+      "value": "MD"
 
       }, 
 
